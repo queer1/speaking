@@ -6,6 +6,7 @@
 - Apr 2: [Paris.rb](https://github.com/mattt/speaking/wiki/2013-04-02-Paris_rb)
 - Apr 3: [CocoaHeads Lyon](https://github.com/mattt/speaking/wiki/2013-04-03-CocoaHeads-Lyon)
 - Apr 4: [CocoaHeads Lausanne](https://github.com/mattt/speaking/wiki/2013-04-04-CocoaHeads-Lausanne)
+- Apr 9: [NSHipster PubTrivia](https://github.com/mattt/speaking/wiki/2013-04-09-NSHipster-PubTrivia)
 - Apr 11: [CocoaHeads Vienna](https://github.com/mattt/speaking/wiki/2013-04-11-CocoaHeads-Vienna)
 - Apr 13-14: [#iOSonRailsConf](https://github.com/mattt/speaking/wiki/2013-04-13-iOSonRailsConf)
 - Apr 18: [MMConf](https://github.com/mattt/speaking/wiki/2013-04-18-MMConf)
