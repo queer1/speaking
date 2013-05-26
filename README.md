@@ -2,7 +2,7 @@
 
 ### Upcoming Events
 
-- Oct 10: [RuPy](https://github.com/mattt/speaking/wiki/2013-10-11-RuPy) (Budapest, Hungary)
+- Oct 11–13: [RuPy](https://github.com/mattt/speaking/wiki/2013-10-11-RuPy) (Budapest, Hungary)
 
 ---
 
