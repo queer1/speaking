@@ -2,9 +2,7 @@
 
 ### Upcoming Events
 
-- May 20: [Silicon Valley iOS Developers Meetup](https://github.com/mattt/speaking/wiki/2013-05-20-Silicon-Valley-iOS-Developers-Meetup)
-- May 23: [SF Rails](https://github.com/mattt/speaking/wiki/2013-05-23-SF-Rails)
-
+- Oct 10: [RuPy](https://github.com/mattt/speaking/wiki/2013-10-11-RuPy) (Budapest, Hungary)
 
 ---
 
