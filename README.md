@@ -5,7 +5,7 @@
 - July 2: [iDeveloper LIVE Podcast](http://ideveloper.tv/podcast/ideveloperlive.html)
 - July 18–20: [Lone Star Ruby Conf](https://github.com/mattt/speaking/wiki/2013-07-18-Lone-Star-Ruby-Conf) (Austin, TX)
 - July 29–August 2: TBA
-- August 16–17: TBA
+- August 17–18: [CocoaConf Portland](https://github.com/mattt/speaking/wiki/2013-08-16-CocoaConf-Portland)
 - September 6: TBA
 - September 17: TBA
 - September 19: TBA
