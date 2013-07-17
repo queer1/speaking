@@ -6,7 +6,7 @@
 - July 18–20: [Lone Star Ruby Conf](https://github.com/mattt/speaking/wiki/2013-07-18-Lone-Star-Ruby-Conf) (Austin, TX)
 - July 30: [NSHipster Pub Quiz - New York](https://github.com/mattt/speaking/wiki/2013-07-30-NSHipster-Pub-Quiz-New-York) (New York, NY)
 - August 1: [New York iOS Developer Meetup](2013-08-01-New-York-iOS-Developer-Meetup) (New York, NY)
-- August 17–18: [CocoaConf Portland](https://github.com/mattt/speaking/wiki/2013-08-16-CocoaConf-Portland)
+- August 17–18: [CocoaConf Portland](https://github.com/mattt/speaking/wiki/2013-08-16-CocoaConf-Portland) (Portland, Oregon)
 - September 6: TBA
 - September 17: TBA
 - September 19: TBA
