@@ -2,8 +2,6 @@
 
 ### Upcoming Events
 
-- July 2: [iDeveloper LIVE Podcast](http://ideveloper.tv/podcast/ideveloperlive.html)
-- July 18–20: [Lone Star Ruby Conf](https://github.com/mattt/speaking/wiki/2013-07-18-Lone-Star-Ruby-Conf) (Austin, TX)
 - July 30: [NSHipster Pub Quiz - New York](https://github.com/mattt/speaking/wiki/2013-07-30-NSHipster-Pub-Quiz-New-York) (New York, NY)
 - August 1: [New York iOS Developer Meetup](2013-08-01-New-York-iOS-Developer-Meetup) (New York, NY)
 - August 17–18: [CocoaConf Portland](https://github.com/mattt/speaking/wiki/2013-08-16-CocoaConf-Portland) (Portland, Oregon)
@@ -11,6 +9,7 @@
 - September 17: TBA
 - September 19: TBA
 - October 11–13: [RuPy](https://github.com/mattt/speaking/wiki/2013-10-11-RuPy) (Budapest, Hungary)
+- November 18–21: [Dreamforce](https://github.com/mattt/speaking/wiki/2013-11-18-Dreamforce) (San Francisco, CA)
 
 ---
 
