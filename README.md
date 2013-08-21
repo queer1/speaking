@@ -3,7 +3,7 @@
 ### Upcoming Events
 
 - August 17–18: [CocoaConf Portland](https://github.com/mattt/speaking/wiki/2013-08-16-CocoaConf-Portland) (Portland, Oregon)
-- September 6: [Salesforce Developer Conference Tokyo](https://github.com/mattt/speaking/wiki/2013-09-06-Salesforce-Developer-Conference-Tokyo)
+- September 6: [Salesforce Developer Conference Tokyo](https://github.com/mattt/speaking/wiki/2013-09-06-Salesforce-Developer-Conference-Tokyo) (Tokyo, Japan)
 - September 17: [CocoaHeads Greenville](https://github.com/mattt/speaking/wiki/2013-09-17-CocoaHeads-Greenville) (Greenville, SC)
 - September 19: [Triangle Cocoa](https://github.com/mattt/speaking/wiki/2013-09-19-Triangle-Cocoa) (Raleigh, NC)
 - October 11–13: [RuPy](https://github.com/mattt/speaking/wiki/2013-10-11-RuPy) (Budapest, Hungary)
