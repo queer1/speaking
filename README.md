@@ -3,8 +3,9 @@
 ### Upcoming Events
 
 - October 11–13: [RuPy](https://github.com/mattt/speaking/wiki/2013-10-11-RuPy) (Budapest, Hungary)
-- October 15–20: TBA (Amsterdam, Netherlands)
-- October 26: Kod.io (Istanbul, Turkey)
+- October 16: [CocoaHeads NL](https://github.com/mattt/speaking/wiki/2013-10-16-CocoaHeads-NL) (Amsterdam, Netherlands)
+- October 20: [Appsterdam Presents "Ask Mattt Anything..."](https://github.com/mattt/speaking/wiki/2013-10-20-Ask-Mattt-Anything) (Amsterdam, Netherlands)
+- October 26: [Kod.io](https://github.com/mattt/speaking/wiki/2013-10-26-kod-io) (Istanbul, Turkey)
 - November 18–21: [Dreamforce](https://github.com/mattt/speaking/wiki/2013-11-18-Dreamforce) (San Francisco, CA)
 
 ---
