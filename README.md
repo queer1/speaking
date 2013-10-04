@@ -1,3 +1,5 @@
+> [Go to this project's Wiki](https://github.com/mattt/speaking/wiki/) for an archive of past and upcoming events, with links to resources like slides, audio, and video.
+
 ### Upcoming Events
 
 - October 11–13: [RuPy](https://github.com/mattt/speaking/wiki/2013-10-11-RuPy) (Budapest, Hungary)
@@ -5,12 +7,6 @@
 - October 20: [Appsterdam Presents "Ask Mattt Anything..."](https://github.com/mattt/speaking/wiki/2013-10-20-Ask-Mattt-Anything) (Amsterdam, Netherlands)
 - October 26: [Kod.io](https://github.com/mattt/speaking/wiki/2013-10-26-kod-io) (Istanbul, Turkey)
 - November 18–21: [Dreamforce](https://github.com/mattt/speaking/wiki/2013-11-18-Dreamforce) (San Francisco, CA)
-
-### Past Events
-
-<script src="https://embed.github.com/view/geojson/mattt/speaking/master/map.geojson"></script>
-
-[Go to this project's Wiki](https://github.com/mattt/speaking/wiki/) for an archive of past events, with links to resources like slides, audio, and video.
 
 ---
 
