@@ -2,8 +2,7 @@
 
 ### Upcoming Events
 
-- November 7: [Women Who Code - iOS Build-an-App Workshop](http://www.meetup.com/Women-Who-Code-SF/events/148084932/)
-- November 18–21: [Dreamforce](https://github.com/mattt/speaking/wiki/2013-11-18-Dreamforce) (San Francisco, CA)
+TBA
 
 ---
 
