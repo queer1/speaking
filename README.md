@@ -1,9 +1,5 @@
 > [Go to this project's Wiki](https://github.com/mattt/speaking/wiki/) for an archive of past and upcoming events, with links to resources like slides, audio, and video.
 
-### Upcoming Events
-
-TBA
-
 ---
 
 [Mattt Thompson](http://mattt.me) is the Mobile Lead at [Heroku](http://heroku.com), and the creator & maintainer of [AFNetworking](https://github.com/afnetworking/afnetworking) and other popular [open-source projects](https://github.com/mattt), including [Postgres.app](http://postgresapp.com), [Helios](http://helios.io), & [Nomad](http://nomad-cli.com). He also writes about obscure & overlooked parts of Cocoa on [NSHipster](http://nshipster.com).
