@@ -2,7 +2,7 @@
 
 ---
 
-[Mattt Thompson](http://mattt.me) is the Mobile Lead at [Heroku](http://heroku.com), and the creator & maintainer of [AFNetworking](https://github.com/afnetworking/afnetworking) and other popular [open-source projects](https://github.com/mattt), including [Postgres.app](http://postgresapp.com), [Helios](http://helios.io), & [Nomad](http://nomad-cli.com). He also writes about obscure & overlooked parts of Cocoa on [NSHipster](http://nshipster.com).
+[Mattt Thompson](http://mattt.me) the creator & maintainer of [AFNetworking](https://github.com/afnetworking/afnetworking) and other popular [open-source projects](https://github.com/mattt), including [Postgres.app](http://postgresapp.com), [Helios](http://helios.io), & [Nomad](http://nomad-cli.com). He also writes about obscure & overlooked parts of Cocoa on [NSHipster](http://nshipster.com).
 
 Mattt has spoken at dozens of conferences and meetups across the United States and around the world, about topics in Objective-C, Ruby, Javascript, web development, design, linguistics, and philosophy. Notably, this includes an appearance at WWDC 2013 for the session "Hidden Gems in Cocoa and Cocoa Touch". 
 
