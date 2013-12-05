@@ -10,6 +10,8 @@ He has coordinated and run day-long workshops and multi-day classes on Rails and
 
 Mattt has also appeared as a guest on [TechCrunch TV](http://techcrunch.com/2012/07/04/in-the-studio-herokus-mattt-thompson-wants-to-automate-away-web-development/), as well as podcasts like [The Changelog](http://5by5.tv/changelog/98), [NSBrief](http://nsbrief.tumblr.com/post/29848292871) and [Refactor.tv](http://refactor.tv).
 
+## Media
+
 - [Photo](http://en.gravatar.com/matttthompson)
 
 ## Contact
